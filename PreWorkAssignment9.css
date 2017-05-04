@@ -1,0 +1,35 @@
+h1, h2 {
+  text-align: center;
+  }
+
+#first {color: red;}
+#second {color: blue;}
+#third {color: green;}
+#big {font-size: 30px;}
+#tiny {font-size: xx-small;}
+#center {text-align: center;}
+#bold {font-weight: bold;}
+#family {font-family: Goudy Old Style;}
+
+#multiple {
+  font-size: 30px;
+  color: orange;
+  font-weight: bold;
+}
+
+.styledFont {
+  font-family: Century Gothic;
+  color: purple;
+  text-align: center;
+}
+
+img {
+  border: 2px solid #ddd;
+  border-radius: 4px;
+  width: 250px;
+  border-top-color: blue;
+  border-right-color: blue;
+  border-left-color: blue;
+  border-bottom-color: blue;
+  border-style: groove;
+}
